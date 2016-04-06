@@ -1,0 +1,31 @@
+{
+  "name": "planet-express",
+  "version": "1.0.0",
+  "description": "A routing helper for express.js which uses the filesystem and filenames to help you define routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrpossoms/planet-express.git"
+  },
+  "keywords": [
+    "express",
+    "express.js",
+    "routing",
+    "router",
+    "filesystem",
+    "file",
+    "arguments",
+    "parameters",
+    "web",
+    "rest"
+  ],
+  "author": "Kirk Roerig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpossoms/planet-express/issues"
+  },
+  "homepage": "https://github.com/mrpossoms/planet-express#readme"
+}
